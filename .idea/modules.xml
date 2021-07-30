@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Num.iml" filepath="$PROJECT_DIR$/.idea/modules/Num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Num.Number_Base_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Num.Number_Base_Converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Num.Problems-The_sum_of_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Num.Problems-The_sum_of_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Num.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Num.util.iml" />
+    </modules>
+  </component>
+</project>
